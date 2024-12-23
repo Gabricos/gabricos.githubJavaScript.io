@@ -4,4 +4,4 @@ All'interno del progetto troverete un semplicissimo Counter programmato utilizza
 
 Il primo serve ad incrementare il valore del "counter" di una unità.
 Il secondo serve a decrementare il valore del "counter" di una unità.
-Il terzo serve a resettare l'intero "counter" per ripartira da zer
+Il terzo serve a resettare l'intero "counter" per ripartira da zero.
